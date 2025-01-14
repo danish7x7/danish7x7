@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine learning and deep learning projects, data analysis, LLM's, AI agents<br>👯 I’m looking to collaborate on projects that solve real life problems.<br>🤝 I’m looking for help with learning more about future AI technology and how to implement them in applications<br>🌱 I’m currently learning software engineering, machine learning and deep learning technologies<br>💬 Ask me about how to find solutions to problems using technology<br>⚡ Fun fact - I can talk about anything and any technological thing that can fascinate you
+🔭 I’m currently working on Machine learning and deep learning projects, data analysis, LLM's, AI agents<br>👯 I’m looking to collaborate on projects that solve real life problems.<br>🤝 I’m looking for help with learning more about future AI technology and how to implement them in applications<br>🌱 I’m currently learning software engineering, machine learning and deep learning technologies<br>💬 Ask me about how to find solutions to problems using technology<br>
 
 
 ## 🌐 Socials:
