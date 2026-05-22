@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=danish7x7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=danish7x7&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
